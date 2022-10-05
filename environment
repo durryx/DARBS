@@ -1,0 +1,18 @@
+# /etc/environment
+
+# avoid iterating over all libseat backends
+LIBSEAT_BACKEND=logind
+
+# set kvantum style
+QT_STYLE_OVERRIDE=kvantum
+
+# for nouveau compatibility
+WLR_DRM_NO_MODIFIERS=1
+
+# set variable for VDPAU hw acceleration
+VDPAU_DRIVER=va_gl
+VDPAU_QUIRKS=ShowWatermark
+
+# firefox acceleration
+export MOZ_DISABLE_RDD_SANDBOX=1
+export LIBVA_DRIVER_NAME=nvidia

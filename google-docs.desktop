@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Exec=firefox 'https://docs.google.com/document/u/0/?tgif=d'
+Icon=docs
+Terminal=false
+Categories=Link;
+
+Name=google-docs
+GenericName=Link
+Comment=Open Google docs using firefox
+Actions=New;
+
+[Desktop Action New]
+Name=google-docs
+Exec=firefox

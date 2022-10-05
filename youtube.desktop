@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=firefox 'https://www.youtube.com/'
+Icon=video
+Terminal=false
+Categories=Link;
+
+Name=youtube
+GenericName=Link
+Comment=Open youtube.com using firefox
+Actions=New;
+
+Path=
+StartupNotify=false
+
+[Desktop Action New]
+Name=youtube.com
+Exec=firefox

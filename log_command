@@ -1,0 +1,2 @@
+command > >(tee -a stdout.log) 2> >(tee -a stderr.log >&2)
+command 2>&1 | tee SomeFile.txt

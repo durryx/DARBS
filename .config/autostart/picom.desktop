@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=picom
+Type=Application
+Comment=
+Exec=/bin/bash -c "/usr/bin/picom --config $HOME/picom.conf &"
+OnlyShowIn=XFCE;
+RunHook=0
+StartupNotify=false
+Terminal=false
+Hidden=false
+

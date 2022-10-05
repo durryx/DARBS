@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Exec=firefox 'https://web.whatsapp.com/'
+Icon=chat
+Terminal=false
+Categories=Link;
+
+Name=whatsapp
+GenericName=Link
+Comment=Open web.whatsapp.com using firefox
+Actions=New;
+
+[Desktop Action New]
+Name=web.whatsapp.com
+Exec=firefox

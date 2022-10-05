@@ -1,0 +1,7 @@
+# ignore dance_old folder
+dance_old
+
+# ignore individual packages
+megasync-x86_64.pkg.tar.zst
+thunar-megasync-x86_64.pkg.tar.xz
+Video_Codec_SDK_11.1.5.zip

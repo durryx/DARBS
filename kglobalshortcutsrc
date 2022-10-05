@@ -1,0 +1,27 @@
+# ~/.config/kglobalshortcutsrc
+
+[ActivityManager]
+_k_friendly_name=Gestore delle attività
+switch-to-activity-4ecb2ec7-af10-4cf3-8464-672d0e24b8e1=none,none,Passa all'attività «Predefinita»
+
+[org.kde.dolphin.desktop]
+_k_friendly_name=Dolphin
+_launch=none,none,Dolphin
+
+[org.kde.krunner.desktop]
+RunClipboard=Meta+Shift+d,Meta+Shift+d,Esegui comando sui contenuti degli appunti
+_k_friendly_name=KRunner
+_launch=Meta+d\tSearch,Meta+d\tSearch,KRunner
+
+[systemsettings.desktop]
+_k_friendly_name=Impostazioni di sistema
+_launch=Tools,Tools,Impostazioni di sistema
+kcm-kscreen=none,none,Configurazione dello schermo
+kcm-lookandfeel=none,none,Tema globale
+kcm-users=none,none,Utenti
+powerdevilprofilesconfig=none,none,Risparmio energetico
+screenlocker=none,none,Blocco dello schermo
+
+[yakuake]
+_k_friendly_name=Yakuake
+toggle-window-state=Meta+s,Meta+s,Apri/chiudi Yakuake

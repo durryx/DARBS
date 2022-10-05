@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=krunner
+Type=Application
+Comment=
+Exec=krunner -d &
+OnlyShowIn=XFCE;
+RunHook=0
+StartupNotify=false
+Terminal=false
+Hidden=false

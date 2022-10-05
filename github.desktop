@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Exec=firefox 'https://github.com/durryx'
+Icon=github
+Terminal=false
+Categories=Link;
+
+Name=github
+GenericName=Link
+Comment=Open github.com/durryx using firefox
+Actions=New;
+
+[Desktop Action New]
+Name=github.com
+Exec=firefox

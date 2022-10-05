@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Exec=firefox 'https://mail.google.com/mail/u/0/?pli=1#inbox'
+Icon=email
+Terminal=false
+Categories=Link;
+
+Name=gmail
+GenericName=Link
+Comment=Open gmail.com using firefox
+Actions=New;
+
+[Desktop Action New]
+Name=gmail.com
+Exec=firefox

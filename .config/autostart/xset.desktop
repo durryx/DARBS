@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=xset
+Type=Application
+Comment=
+Exec=xset r rate 150 30
+OnlyShowIn=XFCE;
+RunHook=0
+StartupNotify=false
+Terminal=false
+Hidden=false
